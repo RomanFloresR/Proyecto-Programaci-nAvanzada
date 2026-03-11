@@ -6,7 +6,7 @@ Repositorio con la información para el proyecto de progración avanzada V.A.S.L
 
 Objetivos general:
 
-- Crear un robot automatico capaz de seguir una linea a traves de sensores infrerojos ademas de ser posible de manejarse a traves de un dispositivo de control remoto
+- Crear un robot automatico capaz de seguir una linea a traves de sensores infrarojos ademas de ser posible de manejarse a traves de un dispositivo de control remoto
 
 Objetivos especificos:
 
