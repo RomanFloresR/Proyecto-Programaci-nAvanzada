@@ -9,9 +9,9 @@ Objetivos Especificos:
 * Aprovechar la facilidad de python de hacer interfaz con otros sistemas
 
 Diagrama a Bloques:
-<img width="932" height="570" alt="imagen" src="https://github.com/user-attachments/assets/0cbd7176-9ca0-407f-af13-832afd61d44d" /> /n
+<img width="932" height="570" alt="imagen" src="https://github.com/user-attachments/assets/0cbd7176-9ca0-407f-af13-832afd61d44d" />
 
-Lista de componentes: /n
+Lista de componentes:
 • Chasis de PLA
 • 2 motores en dc
 • 2 ruedas para motores
@@ -24,7 +24,10 @@ Lista de componentes: /n
 • Regulador de voltaje conversor dc-cd
 • Interruptor de encendido apagado
 • Cables
-• Herramientas de software
+
+Software:
+* Spyder 6 (Lenguaje python)
+* Gowin Version educativa
 
 Roles:
 * Flores Rentería Román - Lider designado
