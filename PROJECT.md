@@ -33,7 +33,7 @@ Roles:
 * Flores Rentería Román - Lider designado
 * Morales Carmona Abigail - Encargada de la investigación y documentación del reporte
 * Nieto Mauleon Yareli del Carmen - Encargada de conexiones
-* Sanches Lozano Blanca Isabel -
+* Sanches Lozano Blanca Isabel - Encargada de programacion y simulacion
 
 Cronograma:
 
