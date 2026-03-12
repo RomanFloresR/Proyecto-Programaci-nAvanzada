@@ -13,3 +13,12 @@ Objetivos especificos:
 - Aprender el uso de una placa FPGA
 - Conocer la interfaz de dispositivos de control remoto con otros dispositivos
 - Aprovechar la facil capacidad de python de hacer interfaz con otros sistemas
+
+Estructura del repositorio:
+
+- Carpeta src/ — código fuente
+- Carpeta docs/ — documentación y diagramas
+- Carpeta benchmarks/ o results/ — mediciones y datos
+- Carpeta tests/ — casos de prueba y validación
+- Carpeta hardware/ — esquemas y BOM
+- Carpeta scripts/ — utilidades y automatización
