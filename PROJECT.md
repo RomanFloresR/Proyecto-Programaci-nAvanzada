@@ -9,9 +9,9 @@ Objetivos Especificos:
 * Aprovechar la facilidad de python de hacer interfaz con otros sistemas
 
 Diagrama a Bloques:
-<img width="932" height="570" alt="imagen" src="https://github.com/user-attachments/assets/0cbd7176-9ca0-407f-af13-832afd61d44d" />
+<img width="932" height="570" alt="imagen" src="https://github.com/user-attachments/assets/0cbd7176-9ca0-407f-af13-832afd61d44d" /> /n
 
-Lista de componentes:
+Lista de componentes: /n
 • Chasis de PLA
 • 2 motores en dc
 • 2 ruedas para motores
@@ -34,7 +34,7 @@ Roles:
 
 Cronograma:
 
-* 13/03/2026 Etapa 1 - Definición y creación del repositorio
+* 13/mar/2026 Etapa 1 - Definición y creación del repositorio
 * 17/abr/2026 Etapa 2 - Avances
 * 15/may/2026 Etapa 3 - Avances
 * 31/jul/2026 Etapa final 
