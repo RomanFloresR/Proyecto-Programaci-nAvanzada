@@ -22,3 +22,10 @@ Estructura del repositorio:
 - Carpeta tests/ — casos de prueba y validación
 - Carpeta hardware/ — esquemas y BOM
 - Carpeta scripts/ — utilidades y automatización
+
+
+
+ETAPA 2 - AVANCES
+En los avances presentamos el diagrama, junto con el circuito del  vehículo automático seguidor de líneas
+
+
