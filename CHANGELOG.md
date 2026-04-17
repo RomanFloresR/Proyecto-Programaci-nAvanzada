@@ -9,3 +9,9 @@ Etapa dos
 * Añadido src/Etapa 2/Floorplan.cst
 * Añadido results/Etapa 2/Carrito_Sdl_syn.rpt.html
 * Actializado hardware/bom.cvs con nuevos sensores y componentes
+
+* Añadido actualización de README.md- Abigail- 15:09
+* Añadido results/Etapa 2/ Analisys.md
+* Añadido results/Etapa 2/ Resultado 2.mp4
+* Añadido results/ Etapa 2/ Fallo de shield.jpeg
+  
