@@ -1,3 +1,4 @@
+#Versión 1.0.0
 # Proyecto-ProgramaciónAvanzada
 
 # Proyecto V.A.S.L (Vehiculo Automatico Seguidor de Linea) #
@@ -24,7 +25,7 @@ Estructura del repositorio:
 - Carpeta scripts/ — utilidades y automatización
 
 
-
+#Versión 1.0.1
 ETAPA 2 - AVANCES
 En los avances presentamos el diagrama, junto con el circuito del  vehículo automático seguidor de líneas
 
