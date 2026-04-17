@@ -1,0 +1,7 @@
+VCD info: dumpfile wave,vcd.vcd opened for output.
+t=0 Sensores=000 Mot1=10 Mot2=10
+t=10 Sensores=001 Mot1=10 Mot2=01
+t=20 Sensores=010 Mot1=10 Mot2=10
+t=30 Sensores=100 Mot1=01 Mot2=10
+t=40 Sensores=111 Mot1=10 Mot2=10
+testbench.sv:15: $finish called at 50 (1s)
