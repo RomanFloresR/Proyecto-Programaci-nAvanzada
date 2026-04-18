@@ -14,4 +14,9 @@ Etapa dos
 * Añadido results/Etapa 2/ Analisys.md
 * Añadido results/Etapa 2/ Resultado 2.mp4
 * Añadido results/ Etapa 2/ Fallo de shield.jpeg
+
+* Añadido docs/diagrama de conexión.pdf - Yareli - 6:23 pm
+* Añadido docs/datasheets.md
+* Añadido docs/schematic/schematicDriver.png
+* Añadido dosc/schematics/tang_nano_pinout.png
   
